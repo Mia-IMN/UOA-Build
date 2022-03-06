@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.73ae4488.css",
+    "main.js": "/static/js/main.12f3857a.js",
+    "static/media/Dr-Utchay.png": "/static/media/Dr-Utchay.1db7fbe3e9042c9c9750.png",
+    "index.html": "/index.html",
+    "main.73ae4488.css.map": "/static/css/main.73ae4488.css.map",
+    "main.12f3857a.js.map": "/static/js/main.12f3857a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73ae4488.css",
+    "static/js/main.12f3857a.js"
+  ]
+}
